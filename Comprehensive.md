@@ -796,6 +796,4 @@ Current Legacy → Recommended Modern:
 - **2026**: Begin hybrid implementations
 - **2030**: Classical algorithms phase-out begins
 
----
 
-*Security Reference v2.0 | Last Updated: 2025 | Next Review: Quarterly*
